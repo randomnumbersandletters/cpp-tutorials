@@ -97,7 +97,7 @@ However, doing this manually is tedious. That's why we use...
 
 ## The build systems
 
-The build systems are programs that run the compiler for your. They keep track of what `.cpp` files have changed to only recompile those, and they can also be configured to pass certain compiler flags automatically, so you don't have to type them every time.
+The build systems are programs that run the compiler for you. They keep track of what `.cpp` files have changed to only recompile those, and they can also be configured to pass certain compiler flags automatically, so you don't have to type them every time.
 
 Some of the most popular build systems are:
 
